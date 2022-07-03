@@ -1,5 +1,5 @@
 ############################### TITLE OF THE PROJECT ##########################
-Dynamic Mapping and Quality of Service Driven Re-Embedding in Virtualization Environment
+Virtual Node Embedding on Substrate Network 
 
 
 ############################## AUTHORS ########################################
